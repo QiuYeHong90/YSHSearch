@@ -1,0 +1,22 @@
+{
+  "name": "YSHSearch",
+  "version": "0.1.0",
+  "summary": "A short description of YSHSearch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shuhui/YSHSearch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shuhui": "793983383@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/shuhui/YSHSearch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YSHSearch/Classes/**/*"
+}

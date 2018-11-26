@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YSHSearch (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YSHSearch (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  YSHSearch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YSHSearch: f059325f0e8df54615c67ba1497e4728301f0924
+
+PODFILE CHECKSUM: 0bd1ec4ce3852378e277c4a703feb1b83dee5e9e
+
+COCOAPODS: 1.5.3
